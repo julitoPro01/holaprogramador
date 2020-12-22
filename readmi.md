@@ -11,3 +11,4 @@
     locales 
     Centralizados
     Distribuidos
+    preguntas resueltas
